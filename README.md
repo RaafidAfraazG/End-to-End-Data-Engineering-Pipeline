@@ -4,7 +4,7 @@ A real-time data streaming and processing system using Apache Airflow, Kafka, Sp
 
 ## System Architecture
 
-![System Architecture](https://github.com/airscholar/e2e-data-engineering/blob/main/Data%20engineering%20architecture.png)
+![System Architecture](https://github.com/raafidafraazg/End-to-End-Data-Engineering-Pipeline/blob/main/Data%20engineering%20architecture.png)
 
 ## 🛠️ Tech Stack
 
