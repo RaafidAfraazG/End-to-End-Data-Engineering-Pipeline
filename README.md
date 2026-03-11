@@ -26,7 +26,7 @@ A real-time data streaming and processing system using Apache Airflow, Kafka, Sp
 
 ```bash
 # Clone repo
-git clone https://github.com/your-username/End-to-End-Data-Engineering-Pipeline.git
+git clone https://github.com/raafidafraazg/End-to-End-Data-Engineering-Pipeline.git
 cd End-to-End-Data-Engineering-Pipeline
 
 # Start all services
